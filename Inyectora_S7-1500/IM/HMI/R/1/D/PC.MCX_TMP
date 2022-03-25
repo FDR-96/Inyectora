@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MCX>
+	<ProjectLocation>
+		C:\Users\FDR-96\Documents\Github\Inyectora\Inyectora_S7-1500\IM\HMI\R\1\D\HMI_K1KR
+	</ProjectLocation>
+	<ProjectIsConsistent>
+		1
+	</ProjectIsConsistent>
+	<SharedMcxLocation>
+		
+	</SharedMcxLocation>
+	<ProjectLocationUNC>
+		\\DESKTOP-NDTHCJ0\WinCC_Project_HMI_K1KR
+	</ProjectLocationUNC>
+	<RDP>
+	<LastModifiedDate>
+		2022-03-25 18:30:55
+	</LastModifiedDate>
+	</RDP>
+</MCX>
