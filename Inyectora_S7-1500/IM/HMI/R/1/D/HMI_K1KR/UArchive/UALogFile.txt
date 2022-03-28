@@ -459,3 +459,110 @@
 2022-03-25 19:10:39.592 [p=8052, t=0x2d7c] General: Start deactivating the project...
 2022-03-25 19:10:39.595 [p=8052, t=0x2d7c] CUAServer::DisconnectLicenseServices
 2022-03-25 19:10:39.898 [p=8052, t=0x2d7c] General: Disconnecting configuration.
+2022-03-26 00:20:20.791 [p=17328, t=0x3f50] General: Project opened, dsncs="CC_HMI_K1KR_22_03_25_11_11_00" path="\\DESKTOP-NDTHCJ0\WinCC_Project_HMI_K1KR\HMI_K1KR.mcp"
+2022-03-26 00:20:20.843 [p=17328, t=0x3f50] Sync: No redundant partner configured
+2022-03-26 00:20:20.846 [p=17328, t=0x3f50] Sync: Loading redundancy configuration
+2022-03-26 00:20:20.927 [p=17328, t=0x3f50] Sync: Redundancy is not activated
+2022-03-26 00:20:20.947 [p=17328, t=0x3f50] General: Disconnecting configuration.
+2022-03-26 00:20:20.948 [p=17328, t=0x3f50] General: Connecting configuration.
+2022-03-26 00:20:21.236 [p=17328, t=0x3f50] General: Connecting to runtime database "CC_HMI_K1KR_22_03_25_11_11_00R" on instance "DESKTOP-NDTHCJ0\WINCC"
+2022-03-26 00:20:21.263 [p=17328, t=0x3f50] General: Checking and upgrading archive table schemas
+2022-03-26 00:20:21.265 [p=17328, t=0x3f50] General: Archive table schemas are up to date now
+2022-03-26 00:20:21.399 [p=17328, t=0x3f50] CUAServer::ConnectLicenseServices
+2022-03-26 00:20:21.401 [p=17328, t=0x3f50] CUAServer::DisconnectLicenseServices
+2022-03-26 00:20:21.416 [p=17328, t=0x3f50] CoCreateInstance of CCLicense.CCLicense.1 succeeded.
+2022-03-26 00:20:21.418 [p=17328, t=0x3f50] CreateInstance of CLicenseTimerThread succeeded.
+2022-03-26 00:20:21.467 [p=17328, t=0x3f50] General: Project activate
+2022-03-26 00:20:21.469 [p=17328, t=0x3f50] General: Start deactivating the project...
+2022-03-26 00:20:21.470 [p=17328, t=0x3f50] Sync: Loading redundancy configuration
+2022-03-26 00:20:21.478 [p=17328, t=0x3f50] Sync: Redundancy is not activated
+2022-03-26 00:20:26.430 [p=17328, t=0x1130] CUAServer::OnLicenseCheck (first call).
+2022-03-26 00:20:26.437 [p=17328, t=0x1130] OnLicenseCheck: number of archives = 0.
+2022-03-26 00:20:27.218 [p=17328, t=0x4708] General: ProjectEvent: 3
+2022-03-26 00:30:01.631 [p=17328, t=0x14cc] CUAServer::SendInvalidQCToPartner - On Deactivate send invalid QCs to partner
+2022-03-26 00:30:01.632 [p=17328, t=0x4708] General: ProjectEvent: 4
+2022-03-26 00:30:01.636 [p=17328, t=0x4708] General: Start deactivating the project...
+2022-03-26 00:30:01.662 [p=17328, t=0x4708] General: Project deactivated
+2022-03-26 00:30:19.093 [p=17328, t=0x4708] General: ProjectEvent: 2
+2022-03-26 00:30:19.096 [p=17328, t=0x4708] General: Start closing the project...
+2022-03-26 00:30:19.098 [p=17328, t=0x4708] General: Start deactivating the project...
+2022-03-26 00:30:19.101 [p=17328, t=0x4708] CUAServer::DisconnectLicenseServices
+2022-03-26 00:30:19.365 [p=17328, t=0x4708] General: Disconnecting configuration.
+2022-03-26 00:40:36.901 [p=9344, t=0x4d9c] General: Project opened, dsncs="CC_HMI_K1KR_22_03_25_11_11_00" path="\\DESKTOP-NDTHCJ0\WinCC_Project_HMI_K1KR\HMI_K1KR.mcp"
+2022-03-26 00:40:36.956 [p=9344, t=0x4d9c] Sync: No redundant partner configured
+2022-03-26 00:40:36.959 [p=9344, t=0x4d9c] Sync: Loading redundancy configuration
+2022-03-26 00:40:37.055 [p=9344, t=0x4d9c] Sync: Redundancy is not activated
+2022-03-26 00:40:37.065 [p=9344, t=0x4d9c] General: Disconnecting configuration.
+2022-03-26 00:40:37.067 [p=9344, t=0x4d9c] General: Connecting configuration.
+2022-03-26 00:40:37.341 [p=9344, t=0x4d9c] General: Connecting to runtime database "CC_HMI_K1KR_22_03_25_11_11_00R" on instance "DESKTOP-NDTHCJ0\WINCC"
+2022-03-26 00:40:37.368 [p=9344, t=0x4d9c] General: Checking and upgrading archive table schemas
+2022-03-26 00:40:37.369 [p=9344, t=0x4d9c] General: Archive table schemas are up to date now
+2022-03-26 00:40:37.503 [p=9344, t=0x4d9c] CUAServer::ConnectLicenseServices
+2022-03-26 00:40:37.504 [p=9344, t=0x4d9c] CUAServer::DisconnectLicenseServices
+2022-03-26 00:40:37.518 [p=9344, t=0x4d9c] CoCreateInstance of CCLicense.CCLicense.1 succeeded.
+2022-03-26 00:40:37.519 [p=9344, t=0x4d9c] CreateInstance of CLicenseTimerThread succeeded.
+2022-03-26 00:40:37.569 [p=9344, t=0x4d9c] General: Project activate
+2022-03-26 00:40:37.571 [p=9344, t=0x4d9c] General: Start deactivating the project...
+2022-03-26 00:40:37.572 [p=9344, t=0x4d9c] Sync: Loading redundancy configuration
+2022-03-26 00:40:37.580 [p=9344, t=0x4d9c] Sync: Redundancy is not activated
+2022-03-26 00:40:42.528 [p=9344, t=0x11b4] CUAServer::OnLicenseCheck (first call).
+2022-03-26 00:40:42.531 [p=9344, t=0x11b4] OnLicenseCheck: number of archives = 0.
+2022-03-26 00:40:47.521 [p=9344, t=0x4858] General: ProjectEvent: 3
+2022-03-26 00:41:36.541 [p=9344, t=0x51a0] CUAServer::SendInvalidQCToPartner - On Deactivate send invalid QCs to partner
+2022-03-26 00:41:36.541 [p=9344, t=0x4858] General: ProjectEvent: 4
+2022-03-26 00:41:36.554 [p=9344, t=0x4858] General: Start deactivating the project...
+2022-03-26 00:41:36.589 [p=9344, t=0x4858] General: Project deactivated
+2022-03-26 00:41:57.330 [p=9344, t=0x4858] General: ProjectEvent: 2
+2022-03-26 00:41:57.334 [p=9344, t=0x4858] General: Start closing the project...
+2022-03-26 00:41:57.336 [p=9344, t=0x4858] General: Start deactivating the project...
+2022-03-26 00:41:57.338 [p=9344, t=0x4858] CUAServer::DisconnectLicenseServices
+2022-03-26 00:41:57.601 [p=9344, t=0x4858] General: Disconnecting configuration.
+2022-03-26 00:43:01.045 [p=18776, t=0x4ad8] General: Project opened, dsncs="CC_HMI_K1KR_22_03_25_11_11_00" path="\\DESKTOP-NDTHCJ0\WinCC_Project_HMI_K1KR\HMI_K1KR.mcp"
+2022-03-26 00:43:01.101 [p=18776, t=0x4ad8] Sync: No redundant partner configured
+2022-03-26 00:43:01.104 [p=18776, t=0x4ad8] Sync: Loading redundancy configuration
+2022-03-26 00:43:01.189 [p=18776, t=0x4ad8] Sync: Redundancy is not activated
+2022-03-26 00:43:01.197 [p=18776, t=0x4ad8] General: Disconnecting configuration.
+2022-03-26 00:43:01.198 [p=18776, t=0x4ad8] General: Connecting configuration.
+2022-03-26 00:43:01.483 [p=18776, t=0x4ad8] General: Connecting to runtime database "CC_HMI_K1KR_22_03_25_11_11_00R" on instance "DESKTOP-NDTHCJ0\WINCC"
+2022-03-26 00:43:01.512 [p=18776, t=0x4ad8] General: Checking and upgrading archive table schemas
+2022-03-26 00:43:01.514 [p=18776, t=0x4ad8] General: Archive table schemas are up to date now
+2022-03-26 00:43:01.649 [p=18776, t=0x4ad8] CUAServer::ConnectLicenseServices
+2022-03-26 00:43:01.651 [p=18776, t=0x4ad8] CUAServer::DisconnectLicenseServices
+2022-03-26 00:43:01.665 [p=18776, t=0x4ad8] CoCreateInstance of CCLicense.CCLicense.1 succeeded.
+2022-03-26 00:43:01.667 [p=18776, t=0x4ad8] CreateInstance of CLicenseTimerThread succeeded.
+2022-03-26 00:43:01.715 [p=18776, t=0x4ad8] General: Project activate
+2022-03-26 00:43:01.717 [p=18776, t=0x4ad8] General: Start deactivating the project...
+2022-03-26 00:43:01.718 [p=18776, t=0x4ad8] Sync: Loading redundancy configuration
+2022-03-26 00:43:01.727 [p=18776, t=0x4ad8] Sync: Redundancy is not activated
+2022-03-26 00:43:06.684 [p=18776, t=0x22ac] CUAServer::OnLicenseCheck (first call).
+2022-03-26 00:43:06.687 [p=18776, t=0x22ac] OnLicenseCheck: number of archives = 0.
+2022-03-26 00:43:11.097 [p=18776, t=0x3dbc] General: ProjectEvent: 3
+2022-03-26 11:04:24.088 [p=15560, t=0x3ce0] General: Project opened, dsncs="CC_HMI_K1KR_22_03_26_11_03_23" path="\\DESKTOP-NDTHCJ0\WinCC_Project_HMI_K1KR\HMI_K1KR.mcp"
+2022-03-26 11:04:24.141 [p=15560, t=0x3ce0] Sync: No redundant partner configured
+2022-03-26 11:04:24.144 [p=15560, t=0x3ce0] Sync: Loading redundancy configuration
+2022-03-26 11:04:24.224 [p=15560, t=0x3ce0] Sync: Redundancy is not activated
+2022-03-26 11:04:24.232 [p=15560, t=0x3ce0] General: Disconnecting configuration.
+2022-03-26 11:04:24.233 [p=15560, t=0x3ce0] General: Connecting configuration.
+2022-03-26 11:04:24.456 [p=15560, t=0x3ce0] General: Connecting to runtime database "CC_HMI_K1KR_22_03_26_11_03_23R" on instance "DESKTOP-NDTHCJ0\WINCC"
+2022-03-26 11:04:24.484 [p=15560, t=0x3ce0] General: Checking and upgrading archive table schemas
+2022-03-26 11:04:24.485 [p=15560, t=0x3ce0] General: Archive table schemas are up to date now
+2022-03-26 11:04:24.595 [p=15560, t=0x3ce0] CUAServer::ConnectLicenseServices
+2022-03-26 11:04:24.597 [p=15560, t=0x3ce0] CUAServer::DisconnectLicenseServices
+2022-03-26 11:04:24.609 [p=15560, t=0x3ce0] CoCreateInstance of CCLicense.CCLicense.1 succeeded.
+2022-03-26 11:04:24.611 [p=15560, t=0x3ce0] CreateInstance of CLicenseTimerThread succeeded.
+2022-03-26 11:04:24.656 [p=15560, t=0x3ce0] General: Project activate
+2022-03-26 11:04:24.658 [p=15560, t=0x3ce0] General: Start deactivating the project...
+2022-03-26 11:04:24.659 [p=15560, t=0x3ce0] Sync: Loading redundancy configuration
+2022-03-26 11:04:24.666 [p=15560, t=0x3ce0] Sync: Redundancy is not activated
+2022-03-26 11:04:29.625 [p=15560, t=0x3df4] CUAServer::OnLicenseCheck (first call).
+2022-03-26 11:04:29.628 [p=15560, t=0x3df4] OnLicenseCheck: number of archives = 0.
+2022-03-26 11:04:38.586 [p=15560, t=0x3cf4] General: ProjectEvent: 3
+2022-03-26 21:17:04.235 [p=15560, t=0x3cf4] General: ProjectEvent: 4
+2022-03-26 21:17:04.234 [p=15560, t=0x59c8] CUAServer::SendInvalidQCToPartner - On Deactivate send invalid QCs to partner
+2022-03-26 21:17:04.240 [p=15560, t=0x3cf4] General: Start deactivating the project...
+2022-03-26 21:17:04.261 [p=15560, t=0x3cf4] General: Project deactivated
+2022-03-26 21:17:21.992 [p=15560, t=0x3cf4] General: ProjectEvent: 2
+2022-03-26 21:17:22.001 [p=15560, t=0x3cf4] General: Start closing the project...
+2022-03-26 21:17:22.003 [p=15560, t=0x3cf4] General: Start deactivating the project...
+2022-03-26 21:17:22.009 [p=15560, t=0x3cf4] CUAServer::DisconnectLicenseServices
+2022-03-26 21:17:22.296 [p=15560, t=0x3cf4] General: Disconnecting configuration.
